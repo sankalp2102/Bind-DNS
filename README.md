@@ -13,7 +13,7 @@ cd bind-dns
 ```
 clone the repository and move into its directory
 ```sh
-git clone https://github.com/Illucious/BIND-DNS-server-for-Local-Network.git
+git clone https://github.com/Illucious/BIND-DNS-server.git
 cd BIND-DNS-server-for-Local-Network 
 ```
 ### Changes in files

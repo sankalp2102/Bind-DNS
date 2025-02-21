@@ -3,7 +3,7 @@ $TTL 10d
 $ORIGIN example.home.
 
 @           IN      SOA     ns.example.home.        info.example.home (
-                            2024052900      ; serial
+                            2024052901      ; serial
                             12h             ; refresh
                             15m             ; retry
                             3w              ; expire
@@ -11,8 +11,9 @@ $ORIGIN example.home.
                             )
 
             IN      NS      ns.example.home.
-ns          IN      A       172.21.30.44
+ns          IN      A       192.168.158.72
 
 ; -- add dns records below
 
-vishesh    IN      A       192.168.0.132
+vishesh    IN      A       192.168.158.59
+sankalp    IN      A       192.168.158.72

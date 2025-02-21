@@ -60,7 +60,7 @@ ns          IN      A       172.21.30.44
 
 ; -- add dns records below
 
-sanidhya    IN      A       192.168.0.132
+sankalp    IN      A       192.168.0.132
 ```
 
 

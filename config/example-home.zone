@@ -15,5 +15,5 @@ ns          IN      A       192.168.158.72
 
 ; -- add dns records below
 
-vishesh    IN      A       192.168.158.59
+
 sankalp    IN      A       192.168.158.72

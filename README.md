@@ -38,9 +38,9 @@ zone "example.home" IN {
     - ```
         ; -- add dns records below
 
-        vishesh    IN      A       192.168.0.132
+        sankalp    IN      A       192.168.158.72
         ```
-        change "vishesh" and its ip to your desired values and add A name records as per your need
+        change "sankalp" and its ip to your desired values and add A name records as per your need
 
 ```config
 $TTL 10d
